@@ -1,0 +1,106 @@
+Feedback Type:
+Frown (Error)
+
+Timestamp:
+2024-08-05T14:34:07.4664424Z
+
+Local Time:
+2024-08-05T20:04:07.4664424+05:30
+
+Session ID:
+e773d6b7-d67f-47f3-84c4-1235c55156cb
+
+Release:
+July 2024
+
+Product Version:
+2.131.1203.0 (24.07) (x64)
+
+OS Version:
+Microsoft Windows NT 10.0.22631.0 (x64 en-US)
+
+CLR Version:
+4.8 or later [Release Number = 533320]
+
+Peak Virtual Memory:
+70.3 GB
+
+Private Memory:
+610 MB
+
+Peak Working Set:
+930 MB
+
+IE Version:
+11.1.22621.0
+
+User ID:
+f2b04e5f-025c-4997-98d2-05415c532302
+
+Workbook Package Info:
+1* - en-IN, Query Groups: 0, fastCombine: Disabled, runBackgroundAnalysis: False.
+
+Telemetry Enabled:
+True
+
+Snapshot Trace Logs:
+C:\Users\PunSysMA\Microsoft\Power BI Desktop Store App\FrownSnapShotf675239a-415c-46bc-a6ea-d0f253237cba.zip
+
+Model Default Mode:
+Empty
+
+Model Version:
+PowerBI_V1
+
+Performance Trace Logs:
+C:\Users\PunSysMA\Microsoft\Power BI Desktop Store App\PerformanceTraces.zip
+
+Enabled Preview Features:
+PBI_sparklines
+PBI_scorecardVisual
+PBI_NlToDax
+PBI_fieldParametersSuperSwitch
+PBI_setLabelOnExportPdf
+PBI_dynamicFormatString
+PBI_oneDriveSave
+PBI_oneDriveShare
+PBI_useModernPublishDialogs
+PBI_gitIntegration
+PBI_newCard
+PBI_buttonSlicerAuthoring
+PBI_EimLessElevatedUser
+PBI_mobileAutoReportLayout
+PBI_daxInlineCopilot
+PBI_aiNarrativesVisual
+PBI_generateMeasureDescriptionsButton
+PBI_desktopReportAuthoringCopilot
+
+Disabled Preview Features:
+PBI_shapeMapVisualEnabled
+PBI_SpanishLinguisticsEnabled
+PBI_qnaLiveConnect
+PBI_b2bExternalDatasetSharing
+PBI_enhancedTooltips
+PBI_onObject
+PBI_publishDialogsSupportSubfolders
+PBI_tmdlInDataset
+PBI_enhancedReportFormat
+PBI_qnaImproveLsdlCopilot
+PBI_visualCalculationsAuthoring
+
+Disabled DirectQuery Options:
+TreatHanaAsRelationalSource
+
+Cloud:
+GlobalCloud
+
+DPI Scale:
+100%
+
+Supported Services:
+Power BI
+
+Formulas:
+
+
+section Section1;
