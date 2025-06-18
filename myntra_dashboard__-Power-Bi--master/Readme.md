@@ -1,1 +1,1 @@
-![Screenshot 2024-03-04 010526](https://github.com/AdityaPatil100/Power-Bi-projects/assets/86911300/4d63e191-5f80-4bbe-8082-1eaf3d08fe51)
+![Screenshot 2024-03-04 010526](https://raw.githubusercontent.com/ivineettiwari/Power-BI-project/refs/heads/development/myntra_dashboard__-Power-Bi--master/Dataset_%26_Related%20Files/myntra_dashboard.png)
